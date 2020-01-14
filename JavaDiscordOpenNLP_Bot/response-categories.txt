@@ -1,0 +1,6 @@
+greeting	 hi hi. hello how are you ? hey . hows it going good morning good evening good afternoon howdy 
+conversation-continue	 ok wow great oh is it ? oh ohh Thats great Good Really hmm lemme think hm hmmm hmmmmm. good bot
+price-inquiry	 How much is the cost ? What's the price ? What's the cost ? How much is price? How much it costs ? price cost money how much. how much?
+product-inquiry	 What is this product ? What's the product ? What does this product do ? What is name of product ? What this product is all about? Can you tell me something about this product ? What are the product features ? Tell me feature of product. 
+nice-ending	 Thanks done that's all thats it. thats it I am done Thank you for information Thank. thanks. thank you. thanks nothing else thats it. bye stop that it
+cfa    What should I get for lunch ? What should I eat ? What should I get for dinner ? What should I get for breakfast ? Where should I go for lunch ? Where should I go for breakfast ? Where should I go for dinner ? What is the best restaurant ? I'm hungry I am hungry best restaurant best food delicious happy im starving where is best food chicken. i want food lunch dinner. What is the best food ?
